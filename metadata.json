@@ -1,0 +1,7 @@
+{
+  "name": "Residenciais SP | Vila Ema, Mooca e Tatuapé",
+  "description": "Lançamentos e apartamentos exclusivos na Vila Ema, Mooca e Tatuapé. Plantas modernas, lazer de clube e localização privilegiada em São Paulo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
